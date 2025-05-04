@@ -39,7 +39,7 @@ Este projeto é uma página simples de currículo que utilizamos HTML, CSS e JAV
  
  Coaching liderança de equipe no centro de treinamento Renault
  
- Líder Kaizen implantação do Kaizen nas Concessionárias no centro de treinamento Renault
+ Líder Kaizen, implantação do Kaizen nas Concessionárias Renault do grupo 
  
  
 ## ✉️ 📞 Contatos
