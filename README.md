@@ -2,7 +2,7 @@
 
 # Anderson da Cruz Vieira
 
-Este projeto é uma página simples de currículo que utilizamos HTML, CSS e JAVA SCRIPT. Para apresentar informações profissionais de forma online. Foi a primeira atividade solicitada elo professor!!!
+Este projeto é uma página simples de currículo que utilizamos HTML, CSS e JAVA SCRIPT. Para apresentar informações profissionais de forma online. Foi a primeira atividade solicitada pelo professor!!!
 
 ## 👨‍💻 Sobre
 
